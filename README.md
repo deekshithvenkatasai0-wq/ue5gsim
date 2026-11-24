@@ -20,7 +20,7 @@ An open-source **5G UE simulator** in Python. It models a UE's control plane end
 ## Install
 
 ```bash
-pip install git+https://github.com/<your-user>/ue5gsim.git
+pip install git+https://github.com/deekshithvenkatasai0-wq/ue5gsim.git
 ```
 
 ## Quick example
